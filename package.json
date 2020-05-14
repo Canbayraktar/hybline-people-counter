@@ -1,0 +1,21 @@
+{
+  "name": "hybline-people-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Hybline",
+    "people",
+    "counter"
+  ],
+  "author": "Can Bayraktar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "start": "^5.1.0"
+  }
+}
